@@ -88,3 +88,12 @@ Content-based Libraries
 ### Evaluations
 - [Evaluating Recommendation Systems](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/EvaluationMetrics.TR_.pdf)
 
+
+
+
+
+
+
+<img width="1400" height="935" alt="image" src="https://github.com/user-attachments/assets/6b62697b-1f3a-447e-814b-6e0d1765aa57" />
+
+
